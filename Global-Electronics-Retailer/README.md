@@ -20,9 +20,9 @@ Insights and recommendations are provided on the following key areas :
 
 Detailed Resources: 
 
-- The Data Cleaning process utilized can be found [here](https://github.com/David-Tu-Nguyen/Excel-Projects/tree/main/Python%20-%20Cleaned%20Datasets)
-- The SQL queries utilized to organize, and prepare data for the dashboard can be found [here](https://github.com/David-Tu-Nguyen/Excel-Projects/blob/main/SQL%20-%20Analysis/Global_Electronics_Retailer.md)
-- An Excel dashboard can be downloaded [here](https://github.com/David-Tu-Nguyen/Excel-Projects/blob/main/Global%20Electronic%20Retailer%20Dashboard%20Excel.xlsx)
+- The Data Cleaning process utilized can be found [here](https://github.com/David-Tu-Nguyen/Excel-Projects/tree/main/Global-Electronics-Retailer/Python%20-%20Cleaned%20Datasets)
+- The SQL queries utilized to organize, and prepare data for the dashboard can be found [here](https://github.com/David-Tu-Nguyen/Excel-Projects/blob/main/Global-Electronics-Retailer/SQL%20-%20Analysis/Global_Electronics_Retailer.md)
+- An Excel dashboard can be downloaded [here](https://github.com/David-Tu-Nguyen/Excel-Projects/blob/main/Global-Electronics-Retailer/Global%20Electronic%20Retailer%20Dashboard%20Excel.xlsx)
 
 # Data Structure
 
