@@ -22,7 +22,7 @@ Detailed Resources:
 
 - The Data Cleaning process utilized can be found [here](https://github.com/David-Tu-Nguyen/Excel-Projects/tree/main/Python%20-%20Cleaned%20Datasets)
 - The SQL queries utilized to organize, and prepare data for the dashboard can be found [here](https://github.com/David-Tu-Nguyen/Excel-Projects/blob/main/SQL%20-%20Analysis/Global_Electronics_Retailer.md)
-- An Excel dashboard can be downloaded [here](https://github.com/David-Tu-Nguyen/Excel-Projects/blob/main/Screenshot%202025-07-04%20201709.png)
+- An Excel dashboard can be downloaded [here](https://github.com/David-Tu-Nguyen/Excel-Projects/blob/main/Global%20Electronic%20Retailer%20Dashboard%20Excel.xlsx)
 
 # Data Structure
 
@@ -33,7 +33,7 @@ Global Retailer Electronic's database structure as seen below consists of five t
 # Executive Summary 
 
 ### Overview of Findings 
-![](https://i.imgur.com/X2Qgfvg.png)
+![](https://i.imgur.com/WsBGTxw.png)
 The analysis shows that desktop PCs, especially the WWI Desktop PC2.33 X2330 Black, are the top-selling products, making a major contribution to total revenue with little difference between color options. The computers category leads with $19.3 million in revenue and $12.28 million in profit, while games and toys have the lowest results ($724,830 revenue and $396,670 profit), showing weak demand for lower-priced products. Home appliances have the highest average order value ($1,840), suggesting a chance to use premium offerings or targeted marketing to boost revenue. The U.S. is the largest market, with $29.87 million in revenue, while France lags with $1.52 million. Revenue peaked in 2019 at $18.26 million but fell sharply in 2021 because of incomplete data and COVID-19 effects.
 
 Below is the overview page from the Excel dashboard and more examples are included throughout the report. The interactive dashboard can be downloaded [here](https://github.com/David-Tu-Nguyen/Excel-Projects/tree/main)
