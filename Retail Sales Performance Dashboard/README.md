@@ -35,8 +35,8 @@ Insights and recommendations are provided across:
 * **Customers**: Demographics (gender, age segment)
 * **Regions**: Region mapping (East, North, South, West)
 
-### Data ModelModel:
-
+### Data Model:
+![](https://i.imgur.com/pWCiKSL.png)
 ---
 ## 3. Executive Summary
 
@@ -52,17 +52,20 @@ Insights and recommendations are provided across:
 * **Top Age Segment**: 19–37 years ($6.09M)
 * **Regional Imbalance**: South ($5.23M) & West ($3.61M) lead, North underperforms ($806K)
 * **Customer Concentration**: James Adams alone contributes $116.13K
+  
+![](https://i.imgur.com/fhcnqFf.png)
 
 ### 3.2. Sales Trends Analysis
 
 * **Monthly Revenue 2024**: Strong Q2 (Apr–Jun), weaker Q4 (Oct–Dec)
 * **YoY Growth**: Consistent, but late-year momentum slowed
 * **Weekday Patterns**: Revenue peaks Tue–Thu, indicating midweek shopping habits
-
+  
+![](https://i.imgur.com/flcepWf.png)
 ---
 
 ## 4. Deep-Dive Analysis
-
+![](https://i.imgur.com/fhcnqFf.png)
 ### 4.1. Product Performance
 
 * **Top Products**: Vacuum Cleaner ($434K), Skipping Rope ($358K), Running Shoes ($353K)
